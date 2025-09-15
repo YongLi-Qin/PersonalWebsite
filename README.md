@@ -23,6 +23,7 @@ src/
 │   ├── Hero.tsx         # Hero section
 │   ├── Loader.tsx       # Loading screen
 │   ├── Navbar.tsx       # Navigation bar
+│   ├── Projects.tsx     # Projects section
 │   └── Skills.tsx       # Skills section
 ├── hooks/               # Custom React hooks
 │   ├── useScrollEffects.ts  # Scroll animations and effects
@@ -34,6 +35,7 @@ src/
 │   ├── Hero.css
 │   ├── Loader.css
 │   ├── Navbar.css
+│   ├── Projects.css
 │   └── Skills.css
 ├── types/               # TypeScript type definitions
 │   └── index.ts
@@ -65,6 +67,10 @@ src/
 ### Skills and Services
 - Edit the skills array in `src/components/Skills.tsx`
 - Modify the about cards in `src/components/About.tsx`
+
+### Projects
+- Update projects in `src/components/Projects.tsx`
+- Add your own project screenshots
 
 ### Styling
 - Customize colors in `src/styles/globals.css` (CSS variables)
